@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/porto-movies-van/static/css/main.17c2d282.css",
+    "main.js": "/porto-movies-van/static/js/main.821836bb.js",
+    "static/js/787.f4a698b0.chunk.js": "/porto-movies-van/static/js/787.f4a698b0.chunk.js",
+    "static/media/slick.svg": "/porto-movies-van/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/porto-movies-van/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/porto-movies-van/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/porto-movies-van/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/porto-movies-van/index.html",
+    "main.17c2d282.css.map": "/porto-movies-van/static/css/main.17c2d282.css.map",
+    "main.821836bb.js.map": "/porto-movies-van/static/js/main.821836bb.js.map",
+    "787.f4a698b0.chunk.js.map": "/porto-movies-van/static/js/787.f4a698b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17c2d282.css",
+    "static/js/main.821836bb.js"
+  ]
+}
