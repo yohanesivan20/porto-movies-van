@@ -47,6 +47,7 @@ const TopRatedMovie = () => {
     }
 
     return (
+      <section id="top-rated">
         <div className="bg-dark p-10">
             <div className='bg-white'>
                 <div className='pt-4 pl-8 text-left'>
@@ -68,6 +69,7 @@ const TopRatedMovie = () => {
                 </Slider>
             </div>
         </div>
+      </section>
     )
 }
 

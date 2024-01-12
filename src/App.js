@@ -7,7 +7,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <div className="App text-center">
+    <div className="App text-center w-full sm:w-full md:w-3/4 lg:w-2/3 xl:w-1/2">
       <NavigationBar/>
       <Carousel/>
       <PopularMovie/>

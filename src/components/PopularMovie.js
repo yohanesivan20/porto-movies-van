@@ -33,15 +33,17 @@ const PopularMovie = () => {
 
     return (
         //Movie Container
-        <div className='bg-slate-900 p-4'>
-            <div className='mb-4'>
-                <h1 className='text-4xl md:text-6xl font-bold text-white'>Popular Movies</h1>
-                <p className='text-lg md:text-xl text-gray-300 mt-4 text-yellow-500'>The most popular Movies in the world</p>
+        <section id="popular">
+            <div className='bg-slate-900 p-4'>
+                <div className='mb-4'>
+                    <h1 className='text-4xl md:text-6xl font-bold text-white'>Popular Movies</h1>
+                    <p className='text-lg md:text-xl text-gray-300 mt-4 text-yellow-500'>The most popular Movies in the world</p>
+                </div>
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+                <PopularMovieList/>
+                </div>
             </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
-            <PopularMovieList/>
-            </div>
-        </div>
+        </section>
     )
 }
 

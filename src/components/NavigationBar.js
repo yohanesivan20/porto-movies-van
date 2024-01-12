@@ -4,9 +4,9 @@ import { getSearchMovie } from '../api'
 
 const NavigationBar = () => {
     let links = [
-        {name:"HOME",url:"/"},
-        {name:"POPULAR",url:"/popular"},
-        {name:"TOP RATED",url:"/top-rated"},
+        {name:"HOME",url:"#home"},
+        {name:"POPULAR",url:"#popular"},
+        {name:"TOP RATED",url:"#top-rated"},
     ]
 
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);

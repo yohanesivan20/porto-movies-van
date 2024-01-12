@@ -21,7 +21,7 @@ const Footer = () => {
                 <div class="items-center rounded-full bg-slate-900 px-3 py-1 text-xs font-medium leading-5 text-stone-100 ">The Movie DB API</div>
             </li>
         </ul>
-        <p className="text-xs mt-1">
+        <p className="text-xs mt-3">
           &copy; {new Date().getFullYear()} All rights reserved
         </p>
       </div>
